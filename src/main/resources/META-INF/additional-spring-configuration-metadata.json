@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "ip.api.url",
+      "type": "java.lang.String",
+      "description": "Api gives information about user by ip."
+    },
+    {
+      "name": "ip.codename",
+      "type": "java.lang.String",
+      "description": "Description for ip.codename."
+    }
+  ] }
